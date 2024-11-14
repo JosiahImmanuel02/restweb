@@ -88,8 +88,6 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
-## Style.CSS
 body {
     font-family: Arial, sans-serif;
     margin: 0;
